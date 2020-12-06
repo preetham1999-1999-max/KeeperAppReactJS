@@ -23,7 +23,7 @@ header {
 header h1 {
   color: #fff;
   /* font-family: "McLaren", cursive; */
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Lucida Handwriting", "Brush Script MT";
   font-weight: 200;
 }
 
@@ -87,7 +87,7 @@ form.create-note textarea {
   outline: none;
   font-size: 1.2em;
   /* font-family: inherit; */
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Lucida Handwriting", "Brush Script MT";
   resize: none;
 }
 form.create-note button {
