@@ -3,10 +3,10 @@
   margin: 0;
   box-sizing: border-box;
 }
-html {
-  /* font-family: "Montserrat", sans-serif; */
+/* html {
   font-family: "Raleway", sans-serif;
-}
+} */
+/* font-family: "Montserrat", sans-serif; */
 body {
   background: #eee;
   padding: 0 16px;
@@ -22,7 +22,7 @@ header {
 
 header h1 {
   color: #fff;
-  font-family: "McLaren", cursive;
+  /* font-family: "McLaren", cursive; */
   font-weight: 200;
 }
 
@@ -85,7 +85,7 @@ form.create-note textarea {
   padding: 4px;
   outline: none;
   font-size: 1.2em;
-  font-family: inherit;
+  /* font-family: inherit; */
   resize: none;
 }
 form.create-note button {
